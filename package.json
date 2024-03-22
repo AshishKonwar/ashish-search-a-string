@@ -1,0 +1,23 @@
+{
+  "name": "ashish-search-a-string",
+  "version": "1.0.0",
+  "description": "An npm package to search certain strings",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishKonwar/ashish-search-a-string.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshishKonwar/ashish-search-a-string/issues"
+  },
+  "homepage": "https://github.com/AshishKonwar/ashish-search-a-string#readme"
+}
